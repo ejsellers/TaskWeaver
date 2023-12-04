@@ -1,5 +1,5 @@
 {
 "llm.api_base": "https://api.openai.com/",
-"llm.api_key": "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",
+"llm.api_key": "sk",
 "llm.model": "gpt-4-1106-preview"
 }
